@@ -50,8 +50,6 @@ Tecla ¿Qué indica? ¿Qué hace?
 <tr><td>36</td><td>37</td></tr>
 <tr><td>38</td><td>39</td></tr>
 </table>
-
-
 Para la entrega del programa deberá realizar un video con las especificaciones que se soliciten al momento de la explicación, además deberá tener un reporte de este el cual consta de:<br>
 • Datos personales<br>
 • Datos de la materia<br>
